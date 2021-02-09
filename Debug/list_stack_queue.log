@@ -1,0 +1,20 @@
+﻿  1-1.cpp
+c:\users\noin1\documents\github\data-structure\list_stack_queue\1-1.cpp(53): error C2556: 'const T *dynamic_array<T>::end(void)': 오버로드된 함수가 'T *dynamic_array<T>::end(void)'과(와) 반환 형식만 다릅니다.
+          with
+          [
+              T=student
+          ]
+  c:\users\noin1\documents\github\data-structure\list_stack_queue\1-1.cpp(52): note: 'dynamic_array<student>::end' 선언을 참조하십시오.
+  c:\users\noin1\documents\github\data-structure\list_stack_queue\1-1.cpp(91): note: 컴파일 중인 클래스 템플릿 인스턴스화 'dynamic_array<student>'에 대한 참조를 확인하세요.
+c:\users\noin1\documents\github\data-structure\list_stack_queue\1-1.cpp(53): error C2373: 'dynamic_array<student>::end': 재정의. 형식 한정자가 다릅니다.
+  c:\users\noin1\documents\github\data-structure\list_stack_queue\1-1.cpp(52): note: 'dynamic_array<student>::end' 선언을 참조하십시오.
+c:\users\noin1\documents\github\data-structure\list_stack_queue\1-1.cpp(53): error C2059: 구문 오류: 'return'
+c:\users\noin1\documents\github\data-structure\list_stack_queue\1-1.cpp(53): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+c:\users\noin1\documents\github\data-structure\list_stack_queue\1-1.cpp(55): error C2255: 'friend': 클래스 정의 외부에서 사용할 수 없습니다.
+c:\users\noin1\documents\github\data-structure\list_stack_queue\1-1.cpp(55): error C2065: 'T': 선언되지 않은 식별자입니다.
+c:\users\noin1\documents\github\data-structure\list_stack_queue\1-1.cpp(55): error C2923: 'dynamic_array': 'T'은(는) 'T' 매개 변수에 대한 올바른 템플릿 형식 인수가 아닙니다.
+c:\users\noin1\documents\github\data-structure\list_stack_queue\1-1.cpp(55): error C2144: 구문 오류: dynamic_array'은(는) ';' 다음에 와야 합니다.
+c:\users\noin1\documents\github\data-structure\list_stack_queue\1-1.cpp(110): error C2039: 'to_string': 'dynamic_array<student>'의 멤버가 아닙니다.
+  c:\users\noin1\documents\github\data-structure\list_stack_queue\1-1.cpp(91): note: 'dynamic_array<student>' 선언을 참조하십시오.
+c:\users\noin1\documents\github\data-structure\list_stack_queue\1-1.cpp(112): error C2676: 이항 '+': 'dynamic_array<student>'이(가) 이 연산자를 정의하지 않거나 미리 정의된 연산자에 허용되는 형식으로의 변환을 정의하지 않습니다.
+c:\users\noin1\documents\github\data-structure\list_stack_queue\1-1.cpp(113): error C3536: 'class3': 초기화되기 전에 사용할 수 없습니다.
