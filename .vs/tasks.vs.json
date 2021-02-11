@@ -10,6 +10,16 @@
       "taskName": "task-1-1",
       "appliesTo": "List_Stack_Queue/1-1.cpp",
       "type": "launch"
+    },
+    {
+      "taskName": "task-1-1",
+      "appliesTo": "List_Stack_Queue/1-1.cpp",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-1-2",
+      "appliesTo": "List_Stack_Queue/1-2.cpp",
+      "type": "launch"
     }
   ]
 }
